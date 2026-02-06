@@ -1,4 +1,4 @@
-# 🌾 CropGuard: AI-Powered Crop Disease Detection
+# 🌾 CropGuard: AI-Powered Crop Disease Dignosis
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.11-blue?logo=python"/>
   <img src="https://img.shields.io/badge/FastAPI-Backend-009688?logo=fastapi"/>
@@ -12,7 +12,7 @@
 
 CropGuard is a multi-modal AI-powered system designed to assist traditional farmers by detecting crop diseases from leaf images and providing **spoken Urdu guidance**. The platform leverages state-of-the-art **computer vision, natural language processing, and speech synthesis** to make advanced agricultural intelligence accessible to non-technical users.
 
-The system allows farmers to simply upload a crop image. The AI then identifies the crop and disease, explains the issue in English, translates the result into Urdu, and finally converts it into **natural Urdu voice output**, enabling farmers to interact with the system without needing literacy or technical skills 🇵🇰.
+The system allows farmers to simply upload a crop image. The AI then identifies the crop and disease, explains the issue in English, translates the result into Urdu, and finally converts it into **natural Urdu voice output**, enabling farmers to interact with the system without needing literacy or technical skills. 
 
 ---
 
@@ -40,6 +40,21 @@ This project demonstrates an end-to-end **multi-modal AI system** combining:
 Built as a **hackathon demo**, but architected to be **scalable and production-ready**.
 
 ---
+
+## 🎥 Demo Video (YouTube)
+
+Watch the complete demo of **CropGuard – AI-Powered Crop Disease Dignosis**:
+<p align="center">
+  <a href="https://youtu.be/GdT-lj6J7Bk" target="_blank">
+    <img src="https://img.youtube.com/vi/GdT-lj6J7Bk/0.jpg" 
+         alt="CropGuard AI Demo Video" 
+         width="70%">
+    <br>▶️ Click to Play
+  </a>
+</p>
+
+---
+
 
 ## 🏗️ System Architecture
 
@@ -196,7 +211,7 @@ CropGuard-AI/
 |   |   └── .gitignore 
 │
 ├── frontend/
-│   
+│   └── app.py
 ├── .env
 ├── requirements.txt
 └── README.md
@@ -297,19 +312,19 @@ Hackathon-grade innovation
 
 ---
 ## 🔮 Future Enhancements
-Mobile app (Flutter)
+- Mobile app (Flutter)
 
-Offline disease detection
+- Offline disease detection
 
-Multi-language farmer support
+- Multi-language farmer support
 
-Crop advisory dashboard
+- Crop advisory dashboard
 
-IoT camera integration
+- IoT camera integration
 
-Government agriculture data APIs
+- Government agriculture data APIs
 
-Model fine-tuning on local Pakistani crops
+- Model fine-tuning on local Pakistani crops
 
 ---
 ## 👥 Team
@@ -323,5 +338,13 @@ Model fine-tuning on local Pakistani crops
 ## 📜 License
 
 This project is licensed under the MIT License.
+
 ---
+## 🤝 Contributing
+
+We welcome contributions! Please open issues or pull requests.
+
+⭐ **Support this project:** If you find this project useful, please star the repo!
+[![GitHub stars](https://img.shields.io/github/stars/mmoneka11/CropGuard-AI?style=social)](https://github.com/mmoneka11/CropGuard-AI/stargazers)
+
 ✨ Built with ❤️ for smart agriculture
